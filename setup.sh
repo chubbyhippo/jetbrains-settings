@@ -6,3 +6,5 @@ curl -s https://raw.githubusercontent.com/chubbyhippo/intellij-settings/refs/hea
 curl -s https://raw.githubusercontent.com/chubbyhippo/pycharm-settings/refs/heads/main/setup.sh | /usr/bin/env sh
 # webstorm
 curl -s https://raw.githubusercontent.com/chubbyhippo/webstorm-settings/refs/heads/main/setup.sh | /usr/bin/env sh
+# rustrover
+curl -s https://raw.githubusercontent.com/chubbyhippo/rustrover-settings/refs/heads/main/setup.sh | /usr/bin/env sh
